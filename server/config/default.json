@@ -1,5 +1,5 @@
 {
-  "mongoURI": "mongodb+srv://maxim2:CEctPgAabYAEfMHc@cluster0.wdeed.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "mongoURI": "WRITE-HERE-YOUR-LINK-TO-MONGO",
   "jwtSecret": "jwtSecretToken",
   "jwtExpiration": 360000
 }
